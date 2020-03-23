@@ -1,2 +1,5 @@
 # hexlet-basics
-Repository for hexlet course
+
+Hello!
+My first repo :smile
+
